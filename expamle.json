@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": "news24",
+          "name": "News24"
+        },
+        "author": null,
+        "title": "News24 | CSA boss Nkwe explains Nortje contract omission: He wants to focus on T20 Cricket",
+        "description": "Anrich Nortje last played international cricket in September last year, from where he suffered an injury that ruled him out of the World Cup and the entire South African summer.",
+        "url": "https://www.news24.com/sport/cricket/proteas/csa-boss-nkwe-explains-nortje-contract-omission-he-wants-to-focus-on-t20-cricket-20240327",
+        "urlToImage": null,
+        "publishedAt": "2024-03-27T05:00:30",
+        "content": "Anrich Nortje last played international cricket in September last year, from where he suffered an injury that ruled him out of the World Cup and the entire South African summer."
+      },
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": null,
+        "title": "New Zealand Women v England Women - Cricket - BBC Sport",
+        "description": "Find out the in depth batting and bowling figures for New Zealand Women v England Women in the Women's International Twenty20 Match on BBC Sport.",
+        "url": "http://www.bbc.co.uk/sport/cricket/scorecard/ECKE1216284",
+        "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+        "publishedAt": "2024-03-27T00:07:20.0644864Z",
+        "content": "\u003Ctable\u003E\u003Ctr\u003E\u003Cth\u003EBatter\u003C/th\u003E\u003Cth\u003EHow Out\u003C/th\u003E\u003Cth\u003EBowler\u003C/th\u003E\u003Cth\u003ERuns\u003C/th\u003E\u003Cth\u003EBalls\u003C/th\u003E\u003Cth\u003E4s\u003C/th\u003E\u003Cth\u003E6s\u003C/th\u003E\u003Cth\u003EMins\u003C/th\u003E\u003Cth\u003ESR\u003C/th\u003E\u003C/tr\u003E\r\n\u003Ctr\u003E\u003Cth\u003ETotal\u003C/th\u003E\u003Cth\u003E(1.2 overs)\u003C/th\u003E\u003Cth\u003E7-for0wickets\u003C/th\u003E\u003Ct… [+1149 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+        "publishedAt": "2020-04-27T11:41:47Z",
+        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+        "publishedAt": "2020-03-30T15:26:05Z",
+        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      }
+    ]
+  }
